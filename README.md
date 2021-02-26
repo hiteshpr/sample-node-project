@@ -1,4 +1,4 @@
 # To run the app 
 
-npm install
-node app.js
+1. 'npm install' and then 
+2. 'node app.js'
